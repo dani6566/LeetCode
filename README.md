@@ -35,6 +35,7 @@
 | [0006-zigzag-conversion](https://github.com/dani6566/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/dani6566/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/dani6566/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0058-length-of-last-word](https://github.com/dani6566/LeetCode/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
