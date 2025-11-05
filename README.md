@@ -22,6 +22,7 @@
 | [0007-reverse-integer](https://github.com/dani6566/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dani6566/LeetCode/tree/master/0009-palindrome-number) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dani6566/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2645-pass-the-pillow](https://github.com/dani6566/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
@@ -61,4 +62,5 @@
 |  |
 | ------- |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dani6566/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2645-pass-the-pillow](https://github.com/dani6566/LeetCode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
