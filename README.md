@@ -63,4 +63,8 @@
 | ------- |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dani6566/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2645-pass-the-pillow](https://github.com/dani6566/LeetCode/tree/master/2645-pass-the-pillow) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/dani6566/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
