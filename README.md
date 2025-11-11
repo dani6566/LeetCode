@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dani6566/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dani6566/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/dani6566/LeetCode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dani6566/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dani6566/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/dani6566/LeetCode/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
